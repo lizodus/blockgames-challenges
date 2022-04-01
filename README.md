@@ -16,6 +16,8 @@ https://rinkeby.etherscan.io/address/0x8f50eb289638F18900AD0b770F8A907C626d288C
 Challenge 1:
 https://lizodus-staking.surge.sh/
 
+https://rinkeby.etherscan.io/address/0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512
+
 Challenge 2:
 https://lizodus-vendor.surge.sh/
 
