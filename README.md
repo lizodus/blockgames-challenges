@@ -13,3 +13,6 @@ http://lizodus-toy.surge.sh/
 
 Challenge 1:
 https://lizodus-staking.surge.sh/
+
+Challenge 2:
+https://ipfs.io/ipfs/QmapeneQjJ2XaKHMAq3zzG4JVEG5GANEotEsmZrASpQYuK
