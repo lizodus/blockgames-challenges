@@ -21,4 +21,4 @@ https://rinkeby.etherscan.io/address/0xc76BDC41eC36e2296f5cBDdACAE04486751dF3dd
 Challenge 2:
 https://lizodus-vendor.surge.sh/
 
-https://etherscan.io/address/0x5fbdb2315678afecb367f032d93f642f64180aa3
+https://rinkeby.etherscan.io/address/0xE198BAB43f5AFbbf7d0C82ea3B81FB98a00278E8
